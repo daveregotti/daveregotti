@@ -8,7 +8,7 @@ In my current role as a Low Code/No Code Developer and SharePoint Architect, I b
 
 ## About Me:
 - **😄 Expertise:** Low Code/No Code Developer | SharePoint Architect
-- **💼 Professional Experience:** 6 years as a Developer and SharePoint Architect
+- **💼 Professional Experience:** 20 years as an IT Engineer and Team Leader
 - **📫 Connect with Me:** [LinkedIn](https://www.linkedin.com/in/csaldivar)
 - **⚓ Fun Fact:** I am a Petty Officer 2nd Class in the Navy and was a prior Marine for 8 years.
 - **👨‍🏫 Fun Fact:** I work with young professionals, mentoring them to achieve their professional goals and leveraging technology to do it.
